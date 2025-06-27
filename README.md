@@ -4,19 +4,28 @@
 Este proyecto tiene como objetivo crear una experiencia web moderna, responsiva y atractiva donde los usuarios puedan 
 conocer nuestros productos y valores como marca.
 
+---
+
 ## 🌟 Características
+
+![Vista Inicio](./img/vista-inicio.png)
 
 - Página de inicio con mensaje de bienvenida y llamada a la acción.
 - Sección "About Us" que comunica la filosofía de la marca.
 - Catálogo de productos (muebles) con imágenes y descripciones.
+- Carrito funcional para agregar y quitar productos, vaciar carrito.
 - Diseño adaptable a dispositivos móviles (responsive design).
 - Estilo visual limpio, moderno y enfocado en la experiencia del usuario.
+
+  ---
 
 ## 🛠️ Tecnologías Utilizadas
 
 - HTML5  
 - CSS3  
-- JavaScript 
+- JavaScript
+
+ ---
 
 ## 📁 Estructura del Proyecto
 ```
@@ -34,12 +43,16 @@ brand_x/
 └── README.md
 ```
 
+---
+
 ## 🚀 Cómo Ejecutar el Proyecto
 
 1. Clona el repositorio:
    ```bash
    https://github.com/YasminTorresDesign/Furniture-Website.git
 2. Abre el archivo index.html en tu navegador.
+
+---
    
 ## 🌐 Despliegue
 
@@ -60,6 +73,8 @@ https://yasmintorresdesign.github.io/Furniture-Website/
 
 - Asegúrate de que tu archivo `index.html` esté en la raíz del repositorio o en la carpeta seleccionada en GitHub Pages.
 - Si haces cambios en el código, solo tienes que hacer *push* a la rama y GitHub actualizará el sitio automáticamente.
+
+---
 
 ## 🤝 Contribuciones
 

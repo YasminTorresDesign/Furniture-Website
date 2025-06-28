@@ -368,7 +368,12 @@ text-align: center;
 .copyright{
     padding: 20px;
     text-align: center;
+    background-color: #edecea;
 }
+.copyright span{
+    color: var(--main-color);
+}
+
 /* making responsive */
 @media (max-width: 991px){
     header {
